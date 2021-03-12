@@ -56,6 +56,7 @@ any dfs(node) {
   (lh, rh) = (dfs(node.left), dfs(node.right))
   res = max(res, lh + rh + 2)
   return max(lh, rh) + 1
+}
 
 dfs(root)
 ```
