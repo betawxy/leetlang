@@ -21,7 +21,7 @@ A language for leetcoding
 
 ## sample
 
-```
+```js
 int i = 1000000000000000000000000000000
 float f = 1000000000000000000000000000000.123235345634567345673
 str s = 'kjnsadfiuwy3498nkj3r2jku3h42kjm34I*&Y*ISUDN(&*#@Y*(N#J<MBJHKIHJ&Y&*UIOH闹事的海河等法律可视对讲卢卡斯电脑卡时间考虑到'
